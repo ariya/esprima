@@ -1,8 +1,7 @@
-.git
 .travis.yml
-/node_modules/
-/assets/
-/coverage/
-/demo/
-/test/3rdparty
-/tools/
+node_modules
+assets
+coverage
+demo
+test
+tools
