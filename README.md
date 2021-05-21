@@ -33,7 +33,7 @@ A simple example on Node.js REPL:
   { type: 'Identifier', value: 'answer' },
   { type: 'Punctuator', value: '=' },
   { type: 'Numeric', value: '42' } ]
-  
+
 > esprima.parseScript(program);
 { type: 'Program',
   body:
@@ -44,3 +44,4 @@ A simple example on Node.js REPL:
 ```
 
 For more information, please read the [complete documentation](http://esprima.org/doc).
+
